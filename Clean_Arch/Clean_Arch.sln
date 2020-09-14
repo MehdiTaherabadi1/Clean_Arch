@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Application", "CleanArch.Application", "{EE33DEAF-A289-456A-B765-7DD5F6CA1211}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{EE33DEAF-A289-456A-B765-7DD5F6CA1211}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Domin", "CleanArch.Domin", "{EB09DC26-83FB-4FAD-9035-88737038207E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domin", "Domin", "{EB09DC26-83FB-4FAD-9035-88737038207E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infra.Data", "CleanArch.Infra.Data", "{89B37A9B-3B3B-4577-8067-8EF59C27E1B9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Data", "Infra.Data", "{89B37A9B-3B3B-4577-8067-8EF59C27E1B9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infra.IoC", "CleanArch.Infra.IoC", "{61EBD09B-5BC6-430E-BE68-5893E08B6523}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{61EBD09B-5BC6-430E-BE68-5893E08B6523}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Ui.Mvc", "CleanArch.Ui.Mvc", "{DFC1A6AF-2DF3-4BC9-A54B-C0C934054897}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{DFC1A6AF-2DF3-4BC9-A54B-C0C934054897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Mvc", "CleanArch.Mvc\CleanArch.Mvc.csproj", "{919E0B20-6968-40E5-A7C4-EA7B10F70838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Mvc", "CleanArch.Mvc\CleanArch.Mvc.csproj", "{919E0B20-6968-40E5-A7C4-EA7B10F70838}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
